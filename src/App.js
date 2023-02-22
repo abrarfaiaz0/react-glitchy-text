@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>asdsasd</div>
-      <Glitch word="ABCDEFGHIJ" />
+      <Glitch word="ABRAR FAIAZ ATUNO" />
     </div>
   );
 }
